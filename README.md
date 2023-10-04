@@ -1,12 +1,6 @@
-**Repository Name**: 
-```
-Nightlight-Data-Visualization
-```
+# Nightlight-Data-Visualization
 
----
 
-**README.md**:
-```
 # Nightlight Data Visualization
 
 This repository contains scripts and tools to visualize nightlight data from `.tif` files stored in an S3 bucket.
